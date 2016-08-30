@@ -5,8 +5,9 @@
         <title></title>
     </head>
     <body>
-        <?php
-        // put your code here
-        ?>
+        Demo
+        <p>
+            New Content
+        </p>
     </body>
 </html>
